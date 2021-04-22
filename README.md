@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Zhiwei1996/Zhiwei1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zhiweio/zhiweio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 正在从事数据研发工作
+- 🔭 数据开发一枚
 - 🌱 正在学习算法和数据结构/数据库系统
